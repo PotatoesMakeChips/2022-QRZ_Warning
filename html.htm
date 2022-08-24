@@ -8,7 +8,10 @@
   </head>
   
   <body>
+    <!-- QSL warning -->
     <input type="checkbox" id="qslwarn_toggle" />
+    <input type="checkbox" id="qslthank_toggle" />    
+    
     <div class="qslwarn">
       <h1>! Important QSL Information !</h1>
       <p>
@@ -21,6 +24,9 @@
         <div class="qslwarn_button" role="button">I Understand</div>
       </label>
     </div>
-    <div class="qslthank"><p>Thank you :))</p></div>
+    
+    <div class="qslthank">
+        <p>Thank you :)) <strong><label style="float: right;padding-right: 15px;" for="qslthank_toggle">[X]</label></strong></p>
+    </div>
   </body>
 </html>
