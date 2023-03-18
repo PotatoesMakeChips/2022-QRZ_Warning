@@ -4,4 +4,4 @@ A warning box for the top of your QRZ page to tell people you don't want to rese
 After clicking I understand:
 ![image](https://user-images.githubusercontent.com/29355368/186473576-f696e53d-2ccf-4c5e-aa66-c57ee9c555b6.png)
 
-This is by no means the best way to do this, but it is a way of having something like this that doesn't breack the terms of service for QRZ
+This is by no means the best way to do this, but it is a way of having something like this that doesn't break the terms of service for QRZ
